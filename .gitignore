@@ -3,7 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
 
 
-/frontend_sanity/.env
+/frontend/.env
 
 ### Node ###
 # Logs
