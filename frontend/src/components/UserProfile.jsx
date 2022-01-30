@@ -49,7 +49,7 @@ const UserProfile = () => {
         navigate('/login');
     };
 
-    if (!user) return <Spinner message="Loading Your Profile..." />;
+    if (!user) return <Spinner message="Loading Profile..." />;
 
     return (
         <div className="relative pb-2 h-full justify-center items-center">
