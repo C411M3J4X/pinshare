@@ -1,6 +1,6 @@
 # PinShare
 
-PinShare is an image based social media web application. It allows the users to login with their Google Account and share their ideas & posts to people. (Tutorial from Javascript Mastery)
+PinShare is an image based social media web application. It allows the users to login with their Google Account and share their ideas & posts to people. (Tutorial from JavaScript Mastery)
 
 ### Screenshots
 
