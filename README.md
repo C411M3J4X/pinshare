@@ -15,5 +15,5 @@ PinShare is an image based social media web application. It allows the users to 
 
 ### Links
 
-- Solution URL: [pinshare](https://github.com/C411M3J4X/pinshare)
+- Solution URL: [pinshare](https://github.com/imjunxian/pinshare)
 - Live Site URL: [pinshare-demo](https://pinshare-demo.netlify.app/login)
